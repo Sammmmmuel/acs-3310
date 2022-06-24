@@ -1,0 +1,11 @@
+{
+  "name": "acs-3310",
+  "version": "1.0.0",
+  "description": "## a javascipt library for strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
